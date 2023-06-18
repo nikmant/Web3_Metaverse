@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.378,=C:\Delphi\JS_call_demo\ServerModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.790,C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\Unit1.pas=C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\UFrameCryptoPro.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.022,=C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.417,=C:\Delphi\JS_call_demo\MainModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.812,C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\Unit1.dfm=C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\UFrameTest.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.366,C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\Unit1.dfm=C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\UFrameMetaverse.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.790,C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\Unit1.dfm=C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\UFrameCryptoPro.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.366,C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\Unit1.pas=C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\UFrameMetaverse.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.731,C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\Web3_Delphi_Simple1.dproj=C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\JS_call_demo.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.652,=C:\Delphi\JS_call_demo\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.614,=C:\Z\Projects 2023\MedRay\MedUse\MedUse.Site\MedUse.Site.MW\USystemCola.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,=C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.812,C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\Unit1.pas=C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\UFrameTest.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.709,=C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\Unit1.pas</Transaction>
+    <Transaction>2023.06.15 15:19:29.298,C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\Web3_Metaverse.dproj=C:\Z\Projects 2023\Web3_Delphi\Web3_Delphi_Simple1\Web3_Delphi_Simple1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
